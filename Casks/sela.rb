@@ -1,6 +1,6 @@
 cask "sela" do
-  version "0.5.0"
-  sha256 "3e36b7cab955812ba8111dba8cb52ffe84b6a657013b50e3484f7493cddf1fa2"
+  version "0.6.0"
+  sha256 "270a005420ee45955ee12c8eafddfd1a86f44e81660b7bbee26fc2b738afd9e9"
 
   url "https://github.com/Joehoel/sela/releases/download/v#{version}/Sela-#{version}-arm64.zip"
   name "Sela"
